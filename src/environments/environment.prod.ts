@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  baseUrl: 'https://dominio-api.com/',
-  baseApiUrl: 'https://dominio-api.com/api/'
+  baseUrl: 'https://feriasapp.github.io/',
+  baseApiUrl: 'https://feriasapi.herokuapp.com/'
 };
